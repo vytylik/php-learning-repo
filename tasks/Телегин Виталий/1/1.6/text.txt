@@ -1,0 +1,25 @@
+¹1
+	<?php
+		$arr = [];
+		$arr[] = '1';
+		$arr[] = '2';
+		$arr[] = '3';
+		$arr[] = '4';
+		$arr[] = '5';
+		var_dump($arr)
+	?>
+¹2
+	<?php
+		$arr = [1, 2, 3];
+		$arr[] = '4';
+		$arr[] = '5';
+		var_dump($arr)
+	?>
+¹3
+	<?php
+		$arr = [];
+		$arr['year'] = '2023';
+		$arr['month'] = '02';
+		$arr['day'] = '14';
+		var_dump($arr)
+	?>
