@@ -1,0 +1,36 @@
+№1
+	<?php
+		$num = 1;
+		$num = $num + 1;
+		$num = $num + 1;
+	
+		print $num;
+	?>
+	Выводит на экран значение 3
+№2
+	<?php
+		$num = 1;
+		$num = $num + 2;
+		$num = $num + 3;
+	
+		echo ($num);
+	?>
+	Выводит на экран значение 6
+№3
+	<?php
+		$num = 47;
+		$num += 7;
+		$num -= 18;
+		$num *= 10;
+		$num /= 15;
+
+		print ($num);
+	?>
+№4
+	<?php
+		$str = 'a';
+		$str .= 'b';
+		$str .= 'c';
+	
+		print ($str);
+	?>
