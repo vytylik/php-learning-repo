@@ -1,0 +1,28 @@
+	
+¹1
+	<?php
+	$arr = [a, b, c];
+	var_dump ($arr);
+	?>
+¹2
+	<?php
+	$arr = [a, b, c];
+	print ($arr[0]);
+	print ($arr[1]);
+	print ($arr[2]);
+	?>
+¹3
+	<?php
+	$arr = [a, b, c, d];
+	print ($arr[0] . '+' . $arr[1] . '+' . $arr[2] . '+' . $arr[3]);
+	?>
+¹4
+	<?php
+	$arr = [1, 2, 3];
+	print ($arr[0] + $arr[1] + $arr[2]);
+	?>
+¹5
+	<?php
+	$arr = [2, 5, 3, 9];
+	print (($arr[0] * $arr[1]) + ($arr[2] * $arr[3]));
+	?>
