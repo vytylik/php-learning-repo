@@ -1,0 +1,11 @@
+<?php
+	$test = 0;
+	
+	if (isset($test)) {
+		echo '+';
+	} else {
+		echo '-';
+	}
+?>
+
+Выводин на экран +
