@@ -1,6 +1,6 @@
 <?php
-	$user = ['name' => 'john', 'age' => 30];
+    $user = ['name' => 'john', 'age' => 30];
 	
-	$elem = $user['name'] ?? 'unknown';
+    $elem = $user['name'] ?? 'unknown';
     
 ?>
