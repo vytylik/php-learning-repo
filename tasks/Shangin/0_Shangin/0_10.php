@@ -1,33 +1,33 @@
 <?php
-	$a = 2;
-	echo $a ** 10; 
+    $a = 2;
+    echo $a ** 10; 
 ?>
 <br>
 <br>
 
 <!-- <?php
-	$a = 3 * 2 ** 3;
-	echo $a;
+    $a = 3 * 2 ** 3;
+    echo $a;
 ?>
 <br>
 <?php
-	$a = (3 * 2) ** 3;
-	echo $a;
+    $a = (3 * 2) ** 3;
+    echo $a;
 ?>
 <br>
 <?php
-	$a = 3 * 2 ** (3 + 1);
-	echo $a;
+    $a = 3 * 2 ** (3 + 1);
+    echo $a;
 ?>
 <br>
 <?php
-	$a = 2 ** 3 * 3;
-	echo $a;
+    $a = 2 ** 3 * 3;
+    echo $a;
 ?>
 <br>
 <?php
-	$a = 3 * 2 ** 3 * 3;
-	echo $a;
+    $a = 3 * 2 ** 3 * 3;
+    echo $a;
 ?> -->
 
 <?php
