@@ -2,9 +2,9 @@
     $num = 3;
 	
     if ($num > 0 and $num < 5) {
-	    echo '+';
+	echo '+';
     } else {
-	    echo '-';
+	echo '-';
     }
 ?>
 <br>
@@ -12,9 +12,9 @@
     $num = 15;
 	
     if ($num >= 10 and $num <= 20) {
-	    echo '+';
+	echo '+';
     } else {
-	    echo '-';
+	echo '-';
     }
 ?>
 <br>
@@ -23,9 +23,9 @@
     $num2 = 3;
 	
     if ($num1 <= 1 and $num2 >= 3) {
-	    echo '+';
+	echo '+';
     } else {
-	    echo '-';
+	echo '-';
     }
 ?>
 <br>
