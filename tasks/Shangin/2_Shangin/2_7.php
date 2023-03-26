@@ -1,141 +1,141 @@
 <!-- <?php
-	$test = 0;
+    $test = 0;
 	
-	if (empty($test)) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if (empty($test)) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = -1;
+    $test = -1;
 	
-	if (empty($test)) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if (empty($test)) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = '';
+    $test = '';
 	
-	if (!empty($test)) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if (!empty($test)) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = -1;
+    $test = -1;
 	
-	if (empty($test)) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if (empty($test)) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = '0';
+    $test = '0';
 	
-	if (!empty($test)) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if (!empty($test)) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = -1;
+    $test = -1;
 	
-	if (!empty($test)) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if (!empty($test)) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = null;
+    $test = null;
 	
-	if (empty($test)) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if (empty($test)) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = false;
+    $test = false;
 	
-	if (!empty($test)) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if (!empty($test)) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = true;
+    $test = true;
 	
-	if (!empty($test)) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if (!empty($test)) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = 'false';
+    $test = 'false';
 	
-	if (!empty($test)) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if (!empty($test)) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = 'null';
+    $test = 'null';
 	
-	if (!empty($test)) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if (!empty($test)) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = 0;
+    $test = 0;
 	
-	if (isset($test)) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if (isset($test)) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = null;
+    $test = null;
 	
-	if (isset($test)) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if (isset($test)) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = false;
+    $test = false;
 	
-	if (isset($test)) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if (isset($test)) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br> -->
 <?php
