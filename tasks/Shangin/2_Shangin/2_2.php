@@ -3,9 +3,9 @@
     $test2 = '3';
 		
     if ($test1 == $test2) {
-	    echo '+';
+	echo '+';
     } else {
-	    echo '-';
+	echo '-';
     }
 ?>
 <br>
@@ -14,9 +14,9 @@
     $test2 = '3';
 		
     if ($test1 === $test2) {
-	    echo '+';
+	echo '+';
     } else {
-	    echo '-';
+	echo '-';
     }
 ?>
 <br>
@@ -25,9 +25,9 @@
     $test2 = '3';
 		
     if ($test1 == $test2) {
-	    echo '+';
+	echo '+';
     } else {
-	    echo '-';
+	echo '-';
     }
 ?>
 <br>
@@ -36,9 +36,9 @@
     $test2 = '3';
 		
     if ($test1 === $test2) {
-	    echo '+';
+	echo '+';
     } else {
-	    echo '-';
+	echo '-';
     }
 ?>
 <br>
@@ -47,9 +47,9 @@
     $test2 = 3;
 		
     if ($test1 === $test2) {
-	    echo '+';
+	echo '+';
     } else {
-	    echo '-';
+	echo '-';
     }
 ?>
 <br>
@@ -58,9 +58,9 @@
     $test2 = '3';
 		
     if ($test1 != $test2) {
-	    echo '+';
+	echo '+';
     } else {
-	    echo '-';
+	echo '-';
     }
 ?>
 <br>
@@ -69,9 +69,9 @@
     $test2 = '3';
 		
     if ($test1 !== $test2) {
-	    echo '+';
+	echo '+';
     } else {
-	    echo '-';
+	echo '-';
     }
 ?>
 <br>
@@ -80,9 +80,9 @@
     $test2 = '3';
 		
     if ($test1 != $test2) {
-	    echo '+';
+	echo '+';
     } else {
-	    echo '-';
+	echo '-';
     }
 ?>
 <br>
@@ -91,9 +91,9 @@
     $test2 = '3';
 		
     if ($test1 !== $test2) {
-	    echo '+';
+	echo '+';
     } else {
-	    echo '-';
+	echo '-';
     }
 ?>
 <br>
@@ -102,9 +102,9 @@
     $test2 = 2;
 		
     if ($test1 !== $test2) {
-	    echo '+';
+	echo '+';
     } else {
-	    echo '-';
+	echo '-';
     }
 ?>
 <br> -->
