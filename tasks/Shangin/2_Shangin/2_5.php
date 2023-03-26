@@ -1,61 +1,61 @@
 <?php
-	$test = true;
+    $test = true;
 	
-	if ($test === true) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if ($test === true) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = true;
+    $test = true;
 	
-	if ($test === false) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if ($test === false) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = true;
+    $test = true;
 	
-	if ($test) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if ($test) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = true;
+    $test = true;
 	
-	if ($test != true) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if ($test != true) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = true;
+    $test = true;
 	
-	if ( !($test)) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if ( !($test)) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 <?php
-	$test = true;
+    $test = true;
 	
-	if ($test) {
-		echo '+';
-	} else {
-		echo '-';
-	}
+    if ($test) {
+	echo '+';
+    } else {
+	echo '-';
+    }
 ?>
 <br>
 
