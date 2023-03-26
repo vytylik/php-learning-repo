@@ -6,3 +6,4 @@ echo $c;
 $d = 7;
 $result = $c * $d;
 echo $result;
+?>
