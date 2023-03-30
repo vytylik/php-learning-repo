@@ -9,7 +9,7 @@
 ?>
 <br>
 <?php
-	$arr = [4, 2, 5, 19, 13, 0, 10];
+    $arr = [4, 2, 5, 19, 13, 0, 10];
     $summa = 0;
     $kor = 0;
     foreach ($arr as $elem);
@@ -39,17 +39,17 @@
 ?>
 <br>
 <?php
-	$arr = [4, -2, 5, 19, -130, 0, 10];
+    $arr = [4, -2, 5, 19, -130, 0, 10];
     echo min($arr) . '<br>';
     echo max($arr) . '<br>';
 ?>
 <br>
 <?php
-	echo mt_rand(1, 100);
+    echo mt_rand(1, 100);
 ?>
 <br>
 <?php
-	$arr = [];
+    $arr = [];
     for ($i = 1; $i <= 10; $i++) {
         $arr[] = mt_rand(1, 100);
     }
@@ -57,7 +57,7 @@
 ?>
 <br>
 <?php
-	$a = 1;
+    $a = 1;
     $b = -5;
     echo abs($a + $b);
 ?>
