@@ -23,23 +23,23 @@
 ?>
 <br>
 <?php
-	$arr = '';
+    $arr = '';
 	
-	for ($i = 1; $i <= 10; $i++) {
-		$arr .= 'x';
-	}
+    for ($i = 1; $i <= 10; $i++) {
+	$arr .= 'x';
+    }
 	
-	var_dump($arr);
+    var_dump($arr);
 ?>
 <br>
 <?php
-	$arr = '';
+    $arr = '';
 	
-	for ($i = 1; $i <= 10; $i++) {
-		$arr .= $i;
-	}
+    for ($i = 1; $i <= 10; $i++) {
+	$arr .= $i;
+    }
 	
-	var_dump($arr);
+    var_dump($arr);
 ?>
 <br>
 <?php
