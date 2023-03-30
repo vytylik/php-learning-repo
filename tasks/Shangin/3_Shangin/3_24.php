@@ -1,27 +1,27 @@
 <?php
-	$arr = [];
-	$str = '';
+    $arr = [];
+    $str = '';
 	
-	for ($i = 0; $i < 5; $i++) {
-		$str .= 'xx';
-		$arr[] = $str;
-	}
+    for ($i = 0; $i < 5; $i++) {
+	$str .= 'xx';
+	$arr[] = $str;
+    }
 	
-	var_dump($arr); 
+    var_dump($arr); 
 ?>
 <br>
 <?php
-	$arr = [];
+    $arr = [];
 	
-	for ($i = 1; $i <= 5; $i++) {
-		$str = '';
+    for ($i = 1; $i <= 5; $i++) {
+	$str = '';
 		
-		for ($j = 1; $j <= 5; $j++) {
-			$str .= $i;
-		}
-		
-		$arr[] = $str;
+	for ($j = 1; $j <= 5; $j++) {
+	    $str .= $i;
 	}
+		
+	$arr[] = $str;
+    }
 	
-	var_dump($arr);
+    var_dump($arr);
 ?>
