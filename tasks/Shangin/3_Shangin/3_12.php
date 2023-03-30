@@ -1,17 +1,17 @@
 <?php
-	$arr = ['a', 'b', 'c', 'd', 'e'];
-	$flag = false;
+    $arr = ['a', 'b', 'c', 'd', 'e'];
+    $flag = false;
 	
-	foreach ($arr as $elem) {
-		if ($elem === 'c') {
-			$flag = true;
-			break;
-		}
+    foreach ($arr as $elem) {
+	if ($elem === 'c') {
+	    $flag = true;
+	    break;
 	}
+    }
 	
-	if ($flag === true) {
-		echo 'есть';
+    if ($flag === true) {
+	echo 'есть';
 	} else {
-		echo 'нет';
+	echo 'нет';
 	}
 ?>
