@@ -1,0 +1,9 @@
+<?php
+    test;
+    if (test == true) {
+        print ('+');
+	} else {
+		print ('-');
+	}
+?>
+На экран выведет значение: -

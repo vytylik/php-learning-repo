@@ -1,0 +1,20 @@
+¹1
+	<?php
+		$arr = ['a', 'b', 'c', 'd', 'e'];
+		print count ($arr);
+	?>
+¹2
+	<?php
+		$arr = ['a' => 1, 'b' => 2, 'c' => 3, 'd' => 4];
+		print count ($arr);
+	?>
+¹3
+	<?php
+		$arr = ['a', 'b', 'c', 'd', 'e'];
+		print ($arr[count($arr) - 1]);
+	?>
+¹4
+	<?php
+		$arr = ['a', 'b', 'c', 'd', 'e'];
+		print ($arr[count($arr) - 2]);
+	?>
